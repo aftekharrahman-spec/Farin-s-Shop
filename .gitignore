@@ -39,6 +39,7 @@ yarn-error.*
 # local agent and tool configuration
 .claude/
 .factory/
+.mcp.json
 
 # typescript
 *.tsbuildinfo
